@@ -1,2 +1,2 @@
-"use strict";$(document).ready(function(){App.init()});
+"use strict";
 //# sourceMappingURL=main.js.map
