@@ -7,6 +7,10 @@ $(function() {
     })
 });
 
+
+
+
+
 $(function () {
         $(".sidebar__caption_first").click(function() {
             $(".sidebar__list_first").toggleClass("sidebar__list_active");
